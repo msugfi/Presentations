@@ -40,7 +40,7 @@ Microsoft User Group Finland presentation archive.
 
 📍 **October** - 23.10.2024 @ Zure
 - **Protecting the Generative-AI content with Azure AI Content Safety** - Petrus Vasenius
-- **What Should Security Pro Know About AI** - Markus Lintuala [📄](Sessions/2024/MarkusLintuala_WhatShouldSecurityProKnowAboutAI.pdf)
+- **What Should Security Pro Know About AI** - Markus Lintuala [📄 PDF](Sessions/2024/MarkusLintuala_WhatShouldSecurityProKnowAboutAI.pdf)
 
 📍 **September** - 24.9.2024 @ Microsoft
 - **Entra SSE** - Marko Lauren
