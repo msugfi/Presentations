@@ -1,6 +1,6 @@
 # MSUG.fi Sessions
 
-Archive of presentations from Microsoft User Group Finland events.
+Archive of presentations from Microsoft Security User Group Finland events.
 
 ## 📁 Structure
 
@@ -37,4 +37,4 @@ Sessions/
 ```
 
 ---
-*Microsoft User Group Finland*
+*Microsoft Security User Group Finland*

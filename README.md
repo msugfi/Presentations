@@ -1,6 +1,6 @@
 # MSUG.fi Presentations
 
-Microsoft User Group Finland presentation archive.
+Microsoft Security User Group Finland presentation archive.
 
 ---
 
@@ -59,4 +59,4 @@ See [Sessions README](Sessions/README.md) for details.
 
 ---
 
-*Microsoft User Group Finland - Sharing knowledge, building community*
+*Microsoft Security User Group Finland - Sharing knowledge, building community*
