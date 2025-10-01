@@ -8,7 +8,7 @@ Microsoft Security User Group Finland presentation archive.
 
 📍 **25.9.2025** @ Microsoft
 - **Keeping coders and vibe coders secure with GitHub Advanced Security** - Lukas Lundin
-- **Decade in DevSecOps - Key takeaways from the journey** - Joona Immonen
+- **Decade in DevSecOps - Key takeaways from the journey** - Joona Immonen [📄](Sessions/2025/JoonaImmonen_DecadeInDevSecOps.pdf)
 
 📍 **3.6.2025** @ Sitra
 - **Deep dive to Security Copilot Agents** - Ville Päivinen
