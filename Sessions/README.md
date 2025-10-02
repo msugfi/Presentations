@@ -35,6 +35,9 @@ Sessions/
     │   └── demo.ps1
     └── JaneSmith_CloudNative.pdf
 ```
+## 🔗 Link presentation
+
+Create a link to presentation on root-site README.md after your session name to help your presentation reachability. `[📄](Sessions/2025/FirstnameLastname_TopicInCamelCase.pdf)`
 
 ---
 *Microsoft Security User Group Finland*
