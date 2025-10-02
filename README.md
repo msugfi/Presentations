@@ -39,7 +39,7 @@ Microsoft Security User Group Finland presentation archive.
 - **Exploring Common Attack Scenarios in Microsoft Cloud Services (Vol 2)** - Sami Lamppu, Joosua Santasalo
 
 📍 **23.10.2024** @ Zure
-- **Protecting the Generative-AI content with Azure AI Content Safety** - Petrus Vasenius
+- **Protecting the Generative-AI content with Azure AI Content Safety** - Petrus Vasenius [📄](Sessions/2024/PetrusVasenius_AiContentSafety.pdf)
 - **What Should Security Pro Know About AI** - Markus Lintuala [📄](Sessions/2024/MarkusLintuala_WhatShouldSecurityProKnowAboutAI.pdf)
 
 📍 **24.9.2024** @ Microsoft
