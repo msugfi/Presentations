@@ -6,8 +6,8 @@ Microsoft Security User Group Finland presentation archive.
 ## 📅 2026
 
 📍 **12.3.2026** @ Arrow ECS
-- **Entra Private Access - VPN-purkit roskiin ja ZTNA tulille** - Arimo Perosvuo
-- **Suunniteltu infra-tiimille, rakennettu kehittäjille: Azure Networking for devs** - Joni Nieminen
+- **Entra Private Access - VPN-purkit roskiin ja ZTNA tulille** - Arimo Perosvuo [📄](Sessions/2026/ArimoPerosvuo_EntraPrivateAccess_VpnPurkitRoskiinJaZtnaTulille.pdf)
+- **Suunniteltu infra-tiimille, rakennettu kehittäjille: Azure Networking for devs** - Joni Nieminen [📄](Sessions/2026/JoniNieminen_SuunniteltuInfraTiimilleRakennettuKehittajille_AzureNetworkingForDevelopers.pdf)
 
 📍 **26.2.2026** @ Teams
 - **Microsoft Defender for Cloud - mitä saan jos maksan** - Mika Vilpo [📄](Sessions/2026/MikaVilpo_DefenderForCloud_MitaSaanJosMaksan.pdf)
