@@ -4,6 +4,9 @@ Microsoft Security User Group Finland presentation archive.
 
 ---
 ## 📅 2026
+📍 **23.4.2026** @ Teams
+- **Tekoäly ja tiedon suojaus - uhka vai mahdollisuus?** - Arttu Arstila
+- **Salasanattomuus admineilla ja käyttäjillä** - Matias Haapaniemi
 
 📍 **12.3.2026** @ Arrow ECS
 - **Entra Private Access - VPN-purkit roskiin ja ZTNA tulille** - Arimo Perosvuo [📄](Sessions/2026/ArimoPerosvuo_EntraPrivateAccess_VpnPurkitRoskiinJaZtnaTulille.pdf)
