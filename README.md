@@ -4,6 +4,10 @@ Microsoft Security User Group Finland presentation archive.
 
 ---
 ## 📅 2026
+📍 **21.5.2026** @ Zure
+- **Jurassic truths about APIM and AppGW?** - Joona Immonen
+- **Kun puolustus ajattelee graafeina – miksi ja kuka hyötyy?** - Jarkko Kinnunen
+  
 📍 **23.4.2026** @ Teams
 - **Tekoäly ja tiedon suojaus - uhka vai mahdollisuus?** - Arttu Arstila
 - **Salasanattomuus admineilla ja käyttäjillä** - Matias Haapaniemi
