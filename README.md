@@ -4,6 +4,10 @@ Microsoft Security User Group Finland presentation archive.
 
 ---
 ## 📅 2026
+📍 **2.9.2026** @ Microsoft
+- **Prompt Happens - Securing Microsoft AI workloads before your data becomes the answer** - Jere Haavisto
+- **CyberSecurity State of the Union** - Sami Laiho [📄](Sessions/2026/SamiLaiho_CyberSecurityStateOfTheUnion.pdf)
+  
 📍 **21.5.2026** @ Zure
 - **Jurassic truths about APIM and AppGW?** - Joona Immonen
 - **Kun puolustus ajattelee graafeina – miksi ja kuka hyötyy?** - Jarkko Kinnunen
