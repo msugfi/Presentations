@@ -5,7 +5,7 @@ Microsoft Security User Group Finland presentation archive.
 ---
 ## 📅 2026
 📍 **21.10.2026** @ Teams
-- **Designing Windows 365 as a Privileged Access Workstation** - [📄](Sessions/2026/Valtteri Aho ValtteriAho_DesigningWindows365AsaPAW.pdf)
+- **Designing Windows 365 as a Privileged Access Workstation** - [📄](Sessions/2026/ValtteriAho_DesigningWindows365AsaPAW.pdf)
 - **Securing AI agents with AI Universe** - Harri Jaakkonen
 
 📍 **2.9.2026** @ Microsoft
