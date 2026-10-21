@@ -4,6 +4,10 @@ Microsoft Security User Group Finland presentation archive.
 
 ---
 ## 📅 2026
+📍 **21.10.2026** @ Teams
+- **Designing Windows 365 as a Privileged Access Workstation** - Valtteri Aho
+- **Securing AI agents with AI Universe** - Harri Jaakkonen
+
 📍 **2.9.2026** @ Microsoft
 - **Prompt Happens - Securing Microsoft AI workloads before your data becomes the answer** - Jere Haavisto
 - **CyberSecurity State of the Union** - Sami Laiho [📄](Sessions/2026/SamiLaiho_CyberSecurityStateOfTheUnion.pdf)
